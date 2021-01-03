@@ -2,7 +2,7 @@
 #### IBM Python for data science professional certification exercises, labs and projects.  
 
 The following tools, libraries and projects are included in the certification:  
-- **Tools:** Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+- **Tools:** Jupyter / JupyterLab, GitHub, and Watson Studio
 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
